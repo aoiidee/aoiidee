@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aoiidee
-- 👀 I’m interested in art, game design, creating writing, horror genre
+- 👀 I’m interested in art, game design, creating writing, and the horror genre
 - 🌱 I’m currently learning c# + unity and renpy
 - 💞️ I’m looking to collaborate on narrative-focused projects!
-- 📫 How to reach me the best way is through my email or on my tumblr @aoi1dee
+- 📫 How to reach me the best way is through my email or on my tumblr @aoiide
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: i am actually in school studying game design, user experience, and creative writing!!
 
