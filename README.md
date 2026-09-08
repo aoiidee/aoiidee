@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aoiidee
+- 👋 Hi, I’m @ether
 - 👀 I’m interested in art, game design, creating writing, and the horror genre
 - 🌱 I’m currently learning c# + unity and renpy
 - 💞️ I’m looking to collaborate on narrative-focused projects!
